@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+   font-family: 'Montserrat', sans-serif;
+   font-size: 14px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 1000;
+}
+.parallax1 {
+  background-image: url("./assets/parallasse-SOLHO-01.jpg");
+
+    min-height: 500px;
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  background-image: url("./assets/parallasse-SOLHO-02.jpg");
+
+    min-height: 500px;
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax3 {
+  background-image: url("./assets/parallasse-SOLHO-03.jpg");
+
+    min-height: 500px;
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax4 {
+  background-image: url("./assets/parallasse-SOLHO-04.jpg");
+
+  min-height: 500px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
